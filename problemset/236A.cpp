@@ -3,7 +3,7 @@
 
 void solution(const std::string& uname)
 {
-    std::set<char> dist_char;
+    std::set<char> dist_char; // distinct characters
 
     for (char c : uname) {
         dist_char.insert(c);
