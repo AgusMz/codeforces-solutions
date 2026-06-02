@@ -5,7 +5,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 ## Problem Index
 
 | # | Problem | Solution |
-|---|----------|----------|------------------------|
+|---|----------|----------|
 | 1A | [Theatre Square](https://codeforces.com/problemset/problem/1/A) | [Code](./problemset/1A.cpp) | 
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Code](./problemset/50A.cpp) | 
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Code](./problemset/112A.cpp) |
