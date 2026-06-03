@@ -11,6 +11,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Code](./problemset/50A.cpp) | 
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Code](./problemset/71A.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Code](./problemset/112A.cpp) |
+| 118A | [String Task](https://codeforces.com/problemset/problem/118/A) | [Code](./problemset/118A.cpp) |
 | 158A | [Netx Round](https://codeforces.com/problemset/problem/158/A) | [Code](./problemset/158A.cpp) |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Code](./problemset/231A.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Code](./problemset/236A.cpp) |
