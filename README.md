@@ -18,6 +18,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Code](./problemset/281A.cpp) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Code](./problemset/282A.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [Code](./problemset/339A.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Code](./problemset/791A.cpp) |
 
 ## Project Structure
 
