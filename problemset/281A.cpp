@@ -9,7 +9,9 @@ int main()
     std::string s;
     
     if (std::cin >> s) {
-        s[0] = (char)toupper(s[0]);
+        if (s[0] >= 'a' && s[0] <= 'z') {
+            s[0] -= 32; // ASCII code for capitalized chars
+        }
         std::cout << s << "\n";
     }
 
