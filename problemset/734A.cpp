@@ -26,3 +26,5 @@ int main()
 
     return 0;
 }
+
+// solved - 05/06/2026 - 31 ms - 0 KB memory
