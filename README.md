@@ -12,6 +12,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | [Code](./problemset/59A.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [Code](./problemset/69A.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Code](./problemset/71A.cpp) |
+| 96A | [Football](https://codeforces.com/problemset/problem/96/A) | [Code](./problemset/96A.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [Code](./problemset/110A.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Code](./problemset/112A.cpp) |
 | 118A | [String Task](https://codeforces.com/problemset/problem/118/A) | [Code](./problemset/118A.cpp) |
