@@ -34,6 +34,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Code](./problemset/791A.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Code](./problemset/977A.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [Code](./problemset/1030A.cpp) |
+| 266B | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | [Code](./problemset/266B.cpp) |
 
 ## Project Structure
 
