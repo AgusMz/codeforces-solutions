@@ -33,6 +33,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 734A | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [Code](./problemset/734A.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Code](./problemset/791A.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [Code](./problemset/977A.cpp) |
+| 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | [Code](./problemset/1030A.cpp) |
 
 ## Project Structure
 
