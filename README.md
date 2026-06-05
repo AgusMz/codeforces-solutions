@@ -16,6 +16,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | [Code](./problemset/96A.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | [Code](./problemset/110A.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Code](./problemset/112A.cpp) |
+| 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | [Code](./problemset/116A.cpp) |
 | 118A | [String Task](https://codeforces.com/problemset/problem/118/A) | [Code](./problemset/118A.cpp) |
 | 158A | [Netx Round](https://codeforces.com/problemset/problem/158/A) | [Code](./problemset/158A.cpp) |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Code](./problemset/231A.cpp) |
