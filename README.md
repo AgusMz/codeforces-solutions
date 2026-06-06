@@ -10,6 +10,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Code](./problemset/4A.cpp) |
 | 41A | [Translation](https://codeforces.com/problemset/problem/41/A) | [Code](./problemset/41A.cpp) |
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Code](./problemset/50A.cpp) |
+| 58A | [Chat room](https://codeforces.com/problemset/problem/58/A) | [Code](./problemset/58A.cpp) |
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | [Code](./problemset/59A.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [Code](./problemset/69A.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Code](./problemset/71A.cpp) |
