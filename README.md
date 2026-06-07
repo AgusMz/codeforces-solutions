@@ -28,6 +28,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [Code](./problemset/281A.cpp) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | [Code](./problemset/282A.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/problemset/problem/467/A) | [Code](./problemset/467A.cpp) |
+| 344A | [Magnets](https://codeforces.com/problemset/problem/344/A) | [Code](./problemset/344A.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/problemset/problem/69/A) | [Code](./problemset/69A.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/problemset/problem/486/A) | [Code](./problemset/486A.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [Code](./problemset/546A.cpp) |
