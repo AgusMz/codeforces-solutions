@@ -19,6 +19,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [Code](./problemset/112A.cpp) |
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | [Code](./problemset/116A.cpp) |
 | 118A | [String Task](https://codeforces.com/problemset/problem/118/A) | [Code](./problemset/118A.cpp) |
+| 122A | [Lucky Division](https://codeforces.com/problemset/problem/122/A) | [Code](./problemset/122A.cpp) |
 | 158A | [Netx Round](https://codeforces.com/problemset/problem/158/A) | [Code](./problemset/158A.cpp) |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Code](./problemset/231A.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Code](./problemset/236A.cpp) |
