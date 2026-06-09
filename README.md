@@ -22,6 +22,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 122A | [Lucky Division](https://codeforces.com/problemset/problem/122/A) | [Code](./problemset/122A.cpp) |
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | [Code](./problemset/136A.cpp) |
 | 158A | [Netx Round](https://codeforces.com/problemset/problem/158/A) | [Code](./problemset/158A.cpp) |
+| 160A | [Twins](https://codeforces.com/problemset/problem/160/A) | [Code](./problemset/160A.cpp) |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Code](./problemset/231A.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Code](./problemset/236A.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [Code](./problemset/263A.cpp) |
