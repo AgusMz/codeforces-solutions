@@ -12,6 +12,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | [Code](./problemset/50A.cpp) |
 | 58A | [Chat room](https://codeforces.com/problemset/problem/58/A) | [Code](./problemset/58A.cpp) |
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | [Code](./problemset/59A.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | [Code](./problemset/61A.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [Code](./problemset/69A.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Code](./problemset/71A.cpp) |
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | [Code](./problemset/96A.cpp) |
