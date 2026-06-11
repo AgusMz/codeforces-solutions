@@ -37,6 +37,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 344A  | [Magnets](https://codeforces.com/problemset/problem/344/A)                              | [Code](./problemset/344A.cpp)  |
 | 467A  | [George and Accommodation](https://codeforces.com/problemset/problem/69/A)              | [Code](./problemset/69A.cpp)   |
 | 486A  | [Calculating Function](https://codeforces.com/problemset/problem/486/A)                 | [Code](./problemset/486A.cpp)  |
+| 520A  | [Pangram](https://codeforces.com/problemset/problem/520/A)                              | [Code](./problemset/520A.cpp)  |
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
 | 617A  | [Elephant](https://codeforces.com/problemset/problem/617/A)                             | [Code](./problemset/617A.cpp)  |
 | 677A  | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                      | [Code](./problemset/677A.cpp)  |
