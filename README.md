@@ -40,6 +40,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
 | 617A  | [Elephant](https://codeforces.com/problemset/problem/617/A)                             | [Code](./problemset/617A.cpp)  |
 | 677A  | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                      | [Code](./problemset/677A.cpp)  |
+| 705A  | [Hulk](https://codeforces.com/problemset/problem/705/A)                                 | [Code](./problemset/705A.cpp)  |
 | 734A  | [Anton and Danik](https://codeforces.com/problemset/problem/734/A)                      | [Code](./problemset/734A.cpp)  |
 | 791A  | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                 | [Code](./problemset/791A.cpp)  |
 | 977A  | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)                    | [Code](./problemset/977A.cpp)  |
