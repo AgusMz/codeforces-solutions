@@ -35,10 +35,10 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 281A  | [Word Capitalization](https://codeforces.com/problemset/problem/281/A)                  | [Code](./problemset/281A.cpp)  |
 | 282A  | [Bit++](https://codeforces.com/problemset/problem/282/A)                                | [Code](./problemset/282A.cpp)  |
 | 318A  | [Even Odds](https://codeforces.com/problemset/problem/318/A)                            | [Code](./problemset/318A.cpp)  |
-| 339A  | [Helpful Maths](https://codeforces.com/problemset/problem/339/A)                        | [Code](./problemset/339A.cpp)  |
 | 344A  | [Magnets](https://codeforces.com/problemset/problem/344/A)                              | [Code](./problemset/344A.cpp)  |
 | 405A  | [Gravity Flip](https://codeforces.com/problemset/problem/405/A)                         | [Code](./problemset/405A.cpp)  |
-| 467A  | [George and Accommodation](https://codeforces.com/problemset/problem/69/A)              | [Code](./problemset/69A.cpp)   |
+| 467A  | [George and Accommodation](https://codeforces.com/problemset/problem/69/A)              | [Code](./problemset/467A.cpp)  |
+| 469A  | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                   | [Code](./problemset/469A.cpp)  |
 | 486A  | [Calculating Function](https://codeforces.com/problemset/problem/486/A)                 | [Code](./problemset/486A.cpp)  |
 | 520A  | [Pangram](https://codeforces.com/problemset/problem/520/A)                              | [Code](./problemset/520A.cpp)  |
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
