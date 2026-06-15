@@ -48,6 +48,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 734A  | [Anton and Danik](https://codeforces.com/problemset/problem/734/A)                      | [Code](./problemset/734A.cpp)  |
 | 791A  | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)                 | [Code](./problemset/791A.cpp)  |
 | 977A  | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)                    | [Code](./problemset/977A.cpp)  |
+| 996A  | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)                      | [Code](./problemset/996A.cpp)  |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)        | [Code](./problemset/1030A.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                | [Code](./problemset/1328A.cpp) |
 | 200B  | [Drinks](https://codeforces.com/problemset/problem/200/B)                               | [Code](./problemset/200B.cpp)  |
