@@ -24,6 +24,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 133A  | [HQ9+](https://codeforces.com/problemset/problem/133/A)                                 | [Code](./problemset/133A.cpp)  |
 | 136A  | [Presents](https://codeforces.com/problemset/problem/136/A)                             | [Code](./problemset/136A.cpp)  |
 | 144A  | [Arrival of the General](https://codeforces.com/problemset/problem/144/A)               | [Code](./problemset/144A.cpp)  |
+| 148A  | [Insomnia cure](https://codeforces.com/problemset/problem/148/A)                        | [Code](./problemset/148A.cpp)  |
 | 158A  | [Netx Round](https://codeforces.com/problemset/problem/158/A)                           | [Code](./problemset/158A.cpp)  |
 | 160A  | [Twins](https://codeforces.com/problemset/problem/160/A)                                | [Code](./problemset/160A.cpp)  |
 | 228A  | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | [Code](./problemset/228A.cpp)  |
