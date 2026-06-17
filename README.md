@@ -41,6 +41,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 443A  | [Anton and Letters](https://codeforces.com/problemset/problem/443/A)                    | [Code](./problemset/443A.cpp)  |
 | 467A  | [George and Accommodation](https://codeforces.com/problemset/problem/69/A)              | [Code](./problemset/467A.cpp)  |
 | 469A  | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                   | [Code](./problemset/469A.cpp)  |
+| 479A  | [Expression](https://codeforces.com/problemset/problem/479/A)                           | [Code](./problemset/479A.cpp)  |
 | 486A  | [Calculating Function](https://codeforces.com/problemset/problem/486/A)                 | [Code](./problemset/486A.cpp)  |
 | 520A  | [Pangram](https://codeforces.com/problemset/problem/520/A)                              | [Code](./problemset/520A.cpp)  |
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
