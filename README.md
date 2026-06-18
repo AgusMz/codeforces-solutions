@@ -8,6 +8,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 |-------|-----------------------------------------------------------------------------------------|--------------------------------|
 | 1A    | [Theatre Square](https://codeforces.com/problemset/problem/1/A)                         | [Code](./problemset/1A.cpp)    |
 | 4A    | [Watermelon](https://codeforces.com/problemset/problem/4/A)                             | [Code](./problemset/4A.cpp)    |
+| 25A   | [IQ test](https://codeforces.com/problemset/problem/25/A)                               | [Code](./problemset/25A.cpp)   |
 | 41A   | [Translation](https://codeforces.com/problemset/problem/41/A)                           | [Code](./problemset/41A.cpp)   |
 | 50A   | [Domino piling](https://codeforces.com/problemset/problem/50/A)                         | [Code](./problemset/50A.cpp)   |
 | 58A   | [Chat room](https://codeforces.com/problemset/problem/58/A)                             | [Code](./problemset/58A.cpp)   |
