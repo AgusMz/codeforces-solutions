@@ -44,6 +44,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 469A  | [I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A)                   | [Code](./problemset/469A.cpp)  |
 | 479A  | [Expression](https://codeforces.com/problemset/problem/479/A)                           | [Code](./problemset/479A.cpp)  |
 | 486A  | [Calculating Function](https://codeforces.com/problemset/problem/486/A)                 | [Code](./problemset/486A.cpp)  |
+| 510A  | [Fox And Snake](https://codeforces.com/problemset/problem/510/A)                        | [Code](./problemset/510A.cpp)  |
 | 520A  | [Pangram](https://codeforces.com/problemset/problem/520/A)                              | [Code](./problemset/520A.cpp)  |
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
 | 617A  | [Elephant](https://codeforces.com/problemset/problem/617/A)                             | [Code](./problemset/617A.cpp)  |
