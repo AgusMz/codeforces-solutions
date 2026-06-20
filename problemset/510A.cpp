@@ -33,3 +33,5 @@ int main()
 
     return 0;
 }
+
+// solved - 20/06/2026 - 46 ms - 0 KB memory
