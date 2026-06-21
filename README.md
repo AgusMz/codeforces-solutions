@@ -59,6 +59,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                | [Code](./problemset/1328A.cpp) |
 | 200B  | [Drinks](https://codeforces.com/problemset/problem/200/B)                               | [Code](./problemset/200B.cpp)  |
 | 266B  | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                  | [Code](./problemset/266B.cpp)  |
+| 4C    | [Registration System](https://codeforces.com/problemset/problem/4/C)                    | [Code](./problemset/4C.cpp)    |
 
 ## Project Structure
 
