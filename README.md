@@ -47,6 +47,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 510A  | [Fox And Snake](https://codeforces.com/problemset/problem/510/A)                        | [Code](./problemset/510A.cpp)  |
 | 520A  | [Pangram](https://codeforces.com/problemset/problem/520/A)                              | [Code](./problemset/520A.cpp)  |
 | 546A  | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A)                  | [Code](./problemset/546A.cpp)  |
+| 580A  | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)                 | [Code](./problemset/580A.cpp)  |
 | 617A  | [Elephant](https://codeforces.com/problemset/problem/617/A)                             | [Code](./problemset/617A.cpp)  |
 | 677A  | [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)                      | [Code](./problemset/677A.cpp)  |
 | 705A  | [Hulk](https://codeforces.com/problemset/problem/705/A)                                 | [Code](./problemset/705A.cpp)  |
