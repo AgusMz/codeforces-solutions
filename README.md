@@ -28,7 +28,8 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 148A  | [Insomnia cure](https://codeforces.com/problemset/problem/148/A)                        | [Code](./problemset/148A.cpp)  |
 | 158A  | [Netx Round](https://codeforces.com/problemset/problem/158/A)                           | [Code](./problemset/158A.cpp)  |
 | 160A  | [Twins](https://codeforces.com/problemset/problem/160/A)                                | [Code](./problemset/160A.cpp)  |
-| 228A  | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | [Code](./problemset/228A.cpp)  |
+| 208A  | [Hit the Lottery](https://codeforces.com/problemset/problem/208/A)                      | [Code](./problemset/208A.cpp)  |
+| 228A  | [Dubstep](https://codeforces.com/problemset/problem/228/A)                              | [Code](./problemset/228A.cpp)  |
 | 231A  | [Team](https://codeforces.com/problemset/problem/231/A)                                 | [Code](./problemset/231A.cpp)  |
 | 236A  | [Boy or Girl](https://codeforces.com/problemset/problem/236/A)                          | [Code](./problemset/236A.cpp)  |
 | 263A  | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)                     | [Code](./problemset/263A.cpp)  |
