@@ -59,6 +59,7 @@ This repository contains my solutions to various Codeforces problems, aimed at s
 | 996A  | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A)                      | [Code](./problemset/996A.cpp)  |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)        | [Code](./problemset/1030A.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A)                | [Code](./problemset/1328A.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A)             | [Code](./problemset/1335A.cpp) |
 | 1742A | [Sum](https://codeforces.com/problemset/problem/1742/A)                                 | [Code](./problemset/1742A.cpp) |
 | 200B  | [Drinks](https://codeforces.com/problemset/problem/200/B)                               | [Code](./problemset/200B.cpp)  |
 | 266B  | [Queue at the School](https://codeforces.com/problemset/problem/266/B)                  | [Code](./problemset/266B.cpp)  |
